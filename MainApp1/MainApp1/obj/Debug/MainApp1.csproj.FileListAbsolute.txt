@@ -1,0 +1,10 @@
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\bin\Debug\MainApp1.exe.config
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\bin\Debug\MainApp1.exe
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\bin\Debug\MainApp1.pdb
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\bin\Debug\MySharedLibrary.dll
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\bin\Debug\MySharedLibrary.pdb
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\obj\Debug\MainApp1.csproj.AssemblyReference.cache
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\obj\Debug\MainApp1.csproj.CoreCompileInputs.cache
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\obj\Debug\MainApp1.csproj.CopyComplete
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\obj\Debug\MainApp1.exe
+E:\Mphasis_LVC\Day20\Assignment\MainApp1\MainApp1\obj\Debug\MainApp1.pdb

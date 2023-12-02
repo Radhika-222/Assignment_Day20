@@ -1,0 +1,6 @@
+E:\Mphasis_LVC\Day20\Assignment\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+E:\Mphasis_LVC\Day20\Assignment\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+E:\Mphasis_LVC\Day20\Assignment\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+E:\Mphasis_LVC\Day20\Assignment\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+E:\Mphasis_LVC\Day20\Assignment\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+E:\Mphasis_LVC\Day20\Assignment\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
